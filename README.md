@@ -1,2 +1,2 @@
-# unity-c--notes
+# unity-c-notes
 unity MonoBehaviour notes
